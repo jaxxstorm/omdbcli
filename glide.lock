@@ -1,0 +1,16 @@
+hash: ef989b20f4f496ff87fc03eeb5b0520bbb3b690df278d866f618cb02517de33b
+updated: 2017-04-11T21:42:32.89850684+01:00
+imports:
+- name: github.com/inconshreveable/mousetrap
+  version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
+- name: github.com/jaxxstorm/gomdb
+  version: ac9fe876ab87494ea3b1652234561b12f00d96ee
+- name: github.com/mattn/go-runewidth
+  version: 14207d285c6c197daabb5c9793d63e7af9ab2d50
+- name: github.com/olekukonko/tablewriter
+  version: febf2d34b54a69ce7530036c7503b1c9fbfdf0bb
+- name: github.com/spf13/cobra
+  version: 7aeaa2cce6ae7e18d2a6ee597b60ee137e999bd9
+- name: github.com/spf13/pflag
+  version: 9a906f17374922ed0f74e1b2f593d3723f2ffb00
+testImports: []
